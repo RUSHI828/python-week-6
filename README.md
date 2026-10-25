@@ -1,19 +1,37 @@
-# python-week-6
-# Task 1: Git & GitHub Basics
+# Task 2 - Repository Management
+# Student Management System
 
-## Objective
+## Project Description
 
-To learn and demonstrate the basic Git and GitHub workflow.
+A Python program to manage student records.
 
-## Topics Covered
+## Features
 
-* Git installation and configuration
-* Git repository initialization
-* Basic Git commands
-* Creating commits
-* Connecting a local repository to GitHub
-* Pushing a Python project to GitHub
+* Add student details
+* View student details
+* Manage student records
 
-## Submission
+## Technologies Used
 
-The screenshots PDF demonstrates the Git and GitHub workflow.
+* Python
+
+## Python Concepts Used
+
+* Variables and data types
+* Conditional statements
+* Loops
+* Functions
+
+## Installation/Setup
+
+Install Python on your computer.
+
+## How to Run the Project
+
+Run the command: `python mini.py`
+
+## Future Improvements
+
+* Add database support
+* Add search and update features
+* Create a graphical user interface
